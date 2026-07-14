@@ -64,6 +64,12 @@ Please see [SECURITY.md](./SECURITY.md) for more details.
 - Alert delivery is advisory; this dashboard does not guarantee 100% coverage or real-time delivery in all network conditions.
 - Status changes (acknowledgements, etc.) are stored locally unless a backend integration is configured.
 
+## 🤝 Contributing
+
+This project uses **GrantFox** for grant management. All contributions are tracked and eligible for rewards through the GrantFox platform.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+
 ## License
 
 MIT © Pulseer Maintainers

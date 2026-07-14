@@ -1,6 +1,8 @@
 # Contributing to Pulseer Dashboard
 
-Thank you for contributing! We follow standard Next.js and TypeScript coding conventions.
+Thank you for contributing! This project uses **GrantFox** for grant management. All contributions are tracked and eligible for rewards through the GrantFox platform.
+
+We follow standard Next.js and TypeScript coding conventions.
 
 ## Local Setup
 

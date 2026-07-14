@@ -1,0 +1,29 @@
+name: Good First Issue
+description: A task that's perfect for new contributors
+title: "[Good First Issue] "
+labels: ["good first issue", "help wanted"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is perfect for new contributors!
+  - type: textarea
+    id: task
+    attributes:
+      label: Task Description
+      description: What needs to be done?
+    validations:
+      required: true
+  - type: textarea
+    id: resources
+    attributes:
+      label: Resources
+      description: Links to relevant documentation, code, or examples
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: What will make this issue complete?
+    validations:
+      required: true
